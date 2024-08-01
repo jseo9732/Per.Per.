@@ -1,7 +1,7 @@
-<img width="500" src="https://github.com/user-attachments/assets/f4c1b6ca-fa11-4e00-b549-28d448f9a9a5"/>
-<img width="500" src="https://github.com/user-attachments/assets/247fbe80-c356-404e-b57a-eead2af530fa">
-<img width="500" src="https://github.com/user-attachments/assets/e118eca3-1ab6-4d2a-aa6e-26e179dfd86a">
-<img width="500" src="https://github.com/user-attachments/assets/5886a3a8-3dd3-4a53-ad72-8317ccf61d40">
+<img width="400" src="https://github.com/user-attachments/assets/f4c1b6ca-fa11-4e00-b549-28d448f9a9a5"/>
+<img width="400" src="https://github.com/user-attachments/assets/247fbe80-c356-404e-b57a-eead2af530fa">
+<img width="400" src="https://github.com/user-attachments/assets/e118eca3-1ab6-4d2a-aa6e-26e179dfd86a">
+<img width="400" src="https://github.com/user-attachments/assets/5886a3a8-3dd3-4a53-ad72-8317ccf61d40">
 
 # 프로젝트 소개
 ❓ 향수 취향을 설정하고 취향에 맞는 향수를 추천받고 노트별 향수의 최저가까지 조회할 수 있는 서비스
